@@ -34,9 +34,12 @@ export const Footers = () => {
           <div className="grid grid-two-cols">
             <div className="copyright-text">
               <p>
-                Copyright &copy; 2024, All Right Reserved
-                <NavLink to="https://thapatechnical.shop/" target="_blank">
-                  ThapaTechnical
+                Copyright &copy; 2025, All Right Reserved
+                <NavLink
+                  to="https://www.linkedin.com/in/arindom-kundu-402277184/"
+                  target="_blank"
+                >
+                  Arindom Kundu
                 </NavLink>
               </p>
             </div>
@@ -49,20 +52,13 @@ export const Footers = () => {
 
                 <li>
                   <NavLink
-                    to="https://www.instagram.com/thapatechnical/"
+                    to="https://www.linkedin.com/in/arindom-kundu-402277184/"
                     target="_blank"
                   >
                     Social
                   </NavLink>
                 </li>
-                <li>
-                  <NavLink
-                    to="https://thapatechnical.shop/source-code"
-                    target="_blank"
-                  >
-                    Source Code
-                  </NavLink>
-                </li>
+
                 <li>
                   <NavLink to="/contact">Contact</NavLink>
                 </li>
